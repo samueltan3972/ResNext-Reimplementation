@@ -2,9 +2,9 @@ Github Link: https://github.com/samueltan3972/ResNext-Reimplementation
 Go to Github to download the whole project file, the project file is about 705 MB
 Only latest trained model is included to avoid the project file size going too big
 
-The model directory is not able to upload to repository due to the file size is too big, use link:
+The models directory is not able to upload to repository due to the file size is too big, use link:
 https://drive.google.com/drive/folders/13O0dE4QRiHCzvWlP2BX9ACmet5DjQZKV?usp=sharing
-Put the model folder in the project root directory
+Put the models folder in the project root directory
 
 # ResNext-Reimplementation
 
