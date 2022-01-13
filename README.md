@@ -6,6 +6,7 @@ Pikachu dataset contains image that was web scraping from the internet using Azu
 
 
 ### Result
+compared against PyTorch official model
 	
 ![Pikachu result](img/result.png)
 
